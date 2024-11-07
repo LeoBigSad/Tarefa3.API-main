@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s6YBQvMR7v8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Avest\\source\\repos\\Tarefa3.API-main\\Tarefa3.Domain\\Tarefa3.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Avest\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
