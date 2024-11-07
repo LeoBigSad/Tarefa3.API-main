@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Tarefa3.API.Controllers.PersonController",
+    "Method": "GetAll",
+    "RelativePath": "api/Person/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
